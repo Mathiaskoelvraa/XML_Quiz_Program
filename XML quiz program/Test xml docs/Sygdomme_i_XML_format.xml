@@ -8,6 +8,7 @@
 		<symptomA navn="kulderystelser"/>
 		<symptomA navn="orico"/>
 		<symptomA navn="rhinitis"/>
+	</symptomer>
   </sygdomA>
   <sygdomB navn="ebola">
     <symptom navn="blødning"/>
