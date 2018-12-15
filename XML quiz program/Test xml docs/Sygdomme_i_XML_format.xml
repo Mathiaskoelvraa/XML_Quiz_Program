@@ -9,6 +9,10 @@
 		<symptomA navn="orico"/>
 		<symptomA navn="rhinitis"/>
 	</symptomer>
+	<behandlinger>
+		<behandlingA navn ="Oseltamivir"/>
+	<behandlinger>
+	
   </sygdomA>
   <sygdomB navn="ebola">
     <symptom navn="blødning"/>
