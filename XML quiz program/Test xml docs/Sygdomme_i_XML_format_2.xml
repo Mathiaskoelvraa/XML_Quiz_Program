@@ -24,11 +24,11 @@
 	</symptomer>
 	<behandlinger>
 		<behandlingB navn ="ingen specifik behandling"/>
-		<behandlingB navn= "væske">
-		<behandlingB navn= "blodtransfusion">
+		<behandlingB navn= "væske"/>
+		<behandlingB navn= "blodtransfusion"/>
 	</behandlinger>
-  </sygdomB>
-  <sygdomC navn="pheaumonia">
+ </sygdomB>
+ <sygdomC navn="pheaumonia">
     <symptom navn="hoste"/>
     <symptom navn="brystsmerter"/>
     <symptom navn="feber"/>
@@ -36,4 +36,4 @@
     <symptom navn="kulderystelser"/>
     <symptom navn="produktiv hoste"/>
   </sygdomC>
-</sygdomme>
+ </sygdomme>
