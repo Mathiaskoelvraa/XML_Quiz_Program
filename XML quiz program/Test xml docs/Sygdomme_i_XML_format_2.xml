@@ -24,8 +24,8 @@
 	</symptomer>
 	<behandlinger>
 		<behandlingB navn ="ingen specifik behandling"/>
-		<behandlingB navn´= "væske">
-		<behandlingB navn´= "blodtransfusion">
+		<behandlingB navn= "væske">
+		<behandlingB navn= "blodtransfusion">
 	</behandlinger>
   </sygdomB>
   <sygdomC navn="pheaumonia">
