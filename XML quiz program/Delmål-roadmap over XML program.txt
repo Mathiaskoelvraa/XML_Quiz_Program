@@ -1,0 +1,53 @@
+
+
+-	Oversætte indenteret note/text til xml
+
+- 	Bede bruger om at proofread det automatisk generede xml dokument. 
+
+
+
+-	Læse XML dokument ind i python
+
+
+- 	Omsætte enkelte fx symptomer til elementer("strings"), med to nøgler
+	 (En der refere til det er et symptom, en der refere til hvilken sygdom det stammer fra. Kan muligvisd gøres ved at sætte 		det op som dictionaries inde i dictionaries)
+
+	-	Først kunne omsætte alle "children" eller grene nedenfor et bestemt punkt i xml træet og lagre dem i en dictionary
+			(fx over sygdom A - Symptomer)
+
+-	Tilfældigt udvælge sygdom fra indlæst xml dokument, samt en subgruppe, at quiz brugeren i(fx Sygdom C - symptomer)
+
+
+-	Gemme alle sygdom C's symptomer i en dictionary. 
+
+
+-	Vælge fc 20 andre kandidater fra andre sygdommes symptom-kategori
+
+
+-	Hvis nogle af de 20 udvalgte kandidater matcher symptomer i sygdom C, slettes disse og anden kandidat tilføjes listen.
+
+
+-	Fremstille sygdom C's symptomer samt de 20 kandidater i en grafisk bruger interflade
+
+
+- 	Stille spørgsmål om "udvælg sygdom fra sygdom C"
+
+
+-	modtage indput fra brugeren, enten i form at click i bruger interfladen eller skriftligt
+
+
+-	Sammenholde bruger input med korrekte svar
+
+
+-  	give point for rigtige svar, give minus point for forkert svar. 
+
+
+-	Vise de rigtige svar for brugeren, både hvad var rigtig valgt, hvad var forkert valgt og hvad var rigtigt men ikke 			valgt
+
+
+-	Give roden for alle de viste symptomer. Dvs. for alle symptomer, både kandidaterne og de rigtige svar, vises brugere hvilken 	sygdom de stammer fra
+
+
+-	Sammenregne point og lægge det til samlet point score. 
+
+ 	
