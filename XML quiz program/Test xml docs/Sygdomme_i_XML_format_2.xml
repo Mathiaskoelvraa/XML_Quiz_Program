@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sygdomme>
+  <sygdomA navn="influenza">
+	<symptomer>
+		<symptomA navn="hoste"/>
+		<symptomA navn="feber"/>
+		<symptomA navn="nakkestivhed"/>
+		<symptomA navn="kulderystelser"/>
+		<symptomA navn="orico"/>
+		<symptomA navn="rhinitis"/>
+	</symptomer>
+	<behandlinger>
+		<behandlingA navn ="Oseltamivir"/>
+	</behandlinger>
+	</sygdomA>
+  <sygdomB navn="ebola">
+	<symptomer>
+		<symptomB navn="blødning"/>
+		<symptomB navn="kramper"/>
+		<symptomB navn="feber"/>
+		<symptomB navn="koagulationsforstyrrelser"/>
+		<symptomB navn="multiorgansvigt"/>
+		<symptomB navn="kapiske kramper"/>
+	</symptomer>
+	<behandlinger>
+		<behandlingB navn ="ingen specifik behandling"/>
+		<behandlingB navn´= "væske">
+		<behandlingB navn´= "blodtransfusion">
+	</behandlinger>
+  </sygdomB>
+  <sygdomC navn="pheaumonia">
+    <symptom navn="hoste"/>
+    <symptom navn="brystsmerter"/>
+    <symptom navn="feber"/>
+    <symptom navn="vejrtrækningsproblemer"/>
+    <symptom navn="kulderystelser"/>
+    <symptom navn="produktiv hoste"/>
+  </sygdomC>
+</sygdomme>
