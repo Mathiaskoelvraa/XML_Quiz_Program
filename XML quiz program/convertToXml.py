@@ -3,6 +3,8 @@ os.chdir('/Users/anderskolvraa/Documents/GitRepos/XML quiz')
 
 os.listdir()
 
+#hvis der indgår danske bogstaver: aaa= os.listdir()
+#print([aaaa.encode('latin_1') for aaaa in aaa])
 fil=open('Test of push-pull.txt')
 
 content=fil.read()
@@ -30,6 +32,28 @@ In [121]: contents=contents.replace('\n\t\n','OUTER')
 
 In [122]: contents=contents.replace('\n\n\n','OUTER')
 
+dicc=dict()
+
+for elt in contents:
+    sp=elt.split('\n\t', maxsplit=1)
+    dicc[sp[0]]=sp[1]
+
+def split_to_dict(stt):
+    innerdic=dict()
+    innerdic["Symptomer"]=stt[len('Symptomer'):stt.find('Diagnostisk')].split('\n\t\t')#.strip(['\n','\t'])
+    innerdic["Diagnostisk"]=stt[stt.find('Diagnostisk')+len('Disagnostisk'):stt.find('Behandling')].split('\n\t\t')
+    innerdic["Behandling"]=stt[stt.find('Behandling')+len('Behandling'):stt.find('Prognose')].split('\n\t\t')
+    innerdic["Prognose"]=stt[stt.find('Prognose')+len('prognose'):].split('\n\t\t')
+    return innerdic
+
+
+def recursinvsplit(stri, splitters):
+    if len(splitters)==1:
+        liss = stri.split(splitters[0])
+        return liss
+    liss= stri.split(splitters[0])
+
+
 In [123]: contents2=contents.split('OUTER')
 
  contents3=contents2[0]
@@ -50,3 +74,4 @@ Out[135]:
  'DiagnostiskINNERA-D1INNERA-D2INNERA-D3INNERA-D4',
  'BehandlingINNERA-B1INNERA-B2INNERA-B3INNERA-B4',
  'PrognoseINNERA-P1INNERA-P2INNERA-P3INNERA-P4']
+
