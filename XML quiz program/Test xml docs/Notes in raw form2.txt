@@ -1,0 +1,15 @@
+'sygdom A\n\tSymptomer\n\t\tA-S1\n\t\tA-S2\n\t\tA-S3\n\t\tA-S4\n\tDiagnostisk\n\t\tA-D1\n\t\tA-D2\n\t\tA-D3\n\t\tA-D4\n\tBehandling\n\t\tA-B1\n\t\tA-B2\n\t\tA-B3\n\t\tA-B4\n\tPrognose\n\t\tA-P1\n\t\tA-P2\n\t\tA-P3\n\t\tA-P4\n\n
+
+Sygdom B\n\tSymptomer\n\t\tB-S1\n\t\tB-S2\n\t\tB-S3\n\t\tB-S4\n\tDiagnostisk\n\t\tB-D1\n\t\tB-D2\n\t\tB-D3\n\t\tB-D4\n\tBehandling\n\t\tB-B1\n\t\tB-B2\n\t\tB-B3\n\t\tB-B4\n\tPrognose\n\t\tB-P1\n\t\tB-P2\n\t\tB-P3\n\t\tB-P4\n\n
+
+Sygdom C\n\tSymptomer\n\t\tC-S1\n\t\tC-S2\n\t\tC-S3\n\t\tC-S4\n\tDiagnostisk\n\t\tC-D1\n\t\tC-D2\n\t\tC-D3\n\t\tC-D4\n\tBehandling\n\t\tC-B1\n\t\tC-B2\n\t\tC-B3\n\t\tC-B4\n\tPrognose\n\t\tC-P1\n\t\tC-P2\n\t\tC-P3\n\t\tC-P4\n\n
+
+Sygdom D\n\tSymptomer\n\t\tD-S1\n\t\tD-S2\n\t\tD-S3\n\t\tD-S4\n\tDiagnostisk\n\t\tD-D1\n\t\tD-D2\n\t\tD-D3\n\t\tD-D4\n\tBehandling\n\t\tD-B1\n\t\tD-B2\n\t\tD-B3\n\t\tD-B4\n\tPrognose\n\t\tD-P1\n\t\tD-P2\n\t\tD-P3\n\t\tD-P4\n\n
+
+Sygdom E\n\tSymptomer\n\t\tE-S1\n\t\tE-S2\n\t\tE-S3\n\t\tE-S4\n\tDiagnostisk\n\t\tE-D1\n\t\tE-D2\n\t\tE-D3\n\t\tE-D4\n\tBehandling\n\t\tE-B1\n\t\tE-B2\n\t\tE-B3\n\t\tE-B4\n\tPrognose\n\t\tE-P1\n\t\tE-P2\n\t\tE-P3\n\t\tE-P4\n\n
+
+Sygdom F\n\tSymptomer\n\t\tF-S1\n\t\tF-S2\n\t\tF-S3\n\t\tF-S4\n\tDiagnostisk\n\t\tF-D1\n\t\tF-D2\n\t\tF-D3\n\t\tF-D4\n\tBehandling\n\t\tF-B1\n\t\tF-B2\n\t\tF-B3\n\t\tF-B4\n\tPrognose\n\t\tF-P1\n\t\tF-P2\n\t\tF-P3\n\t\tF-P4\n\n
+
+Sygdom G\n\tSymptomer\n\t\tG-S1\n\t\tG-S2\n\t\tG-S3\n\t\tG-S4\n\tDiagnostisk\n\t\tG-D1\n\t\tG-D2\n\t\tG-D3\n\t\tG-D4\n\tBehandling\n\t\tG-B1\n\t\tG-B2\n\t\tG-B3\n\t\tG-B4\n\tPrognose\n\t\tG-P1\n\t\tG-P2\n\t\tG-P3\n\t\tG-P4\n\n
+
+Sygdom H\n\tSymptomer\n\t\tH-S1\n\t\tH-S2\n\t\tH-S3\n\t\tH-S4\n\tDiagnostisk\n\t\tH-D1\n\t\tH-D2\n\t\tH-D3\n\t\tH-D4\n\tBehandling\n\t\tH-B1\n\t\tH-B2\n\t\tH-B3\n\t\tH-B4\n\tPrognose\n\t\tH-P1\n\t\tH-P2\n\t\tH-P3\n\t\tH-P4'
